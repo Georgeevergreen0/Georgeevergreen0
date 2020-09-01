@@ -26,6 +26,7 @@ I provide services such as web application development, API integration and deve
 
 Contact Me:
 
-[admin@georgeevergreen.com](mailto:admin@georgeevergreen.com) <br />
-[Linkedin](https://www.linkedin.com/in/georgeevergreen) <br />
-[Twitter](https://twitter.com/georgeevergreen) <br />
+Portfolio: [www.georgeevergreen.com](https://www.georgeevergreen.com) <br />
+Email: [admin@georgeevergreen.com](mailto:admin@georgeevergreen.com) <br />
+Linkedin: [linkedin.com/in/georgeevergreen](https://www.linkedin.com/in/georgeevergreen) <br />
+Twitter: [twitter.com/georgeevergreen](https://twitter.com/georgeevergreen) <br />
