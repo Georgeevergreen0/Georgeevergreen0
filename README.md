@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- USA jobs, Uk jobs, Austria jobs. 
 -->
 
-# Senior Software Developer | React, Gatsby, Next, Node, Express, MongoDB, GraphQL <img src="https://github.com/Georgeevergreen0/georgeevergreen0/blob/master/evergreen.png" align="right" width="400" />
+# Senior Software Developer | React, Gatsby, Next, Node, Express, MongoDB, GraphQL <img src="https://github.com/Georgeevergreen0/georgeevergreen0/blob/master/office.jpg" align="right" width="400" />
 
 Hi, my name is George. I am a software developer, open source advocate and technical writer with 5+ years’ hands-on experience in front-end and back-end web application development, proficient with various web development frameworks and library.
 
